@@ -1,6 +1,6 @@
 # Hi there 👋
-### I am a Masters in Computer Science Student at UNC, Charlotte
-## Stuff I excel at
+#### I am a Masters in Computer Science Student at UNC, Charlotte
+### Stuff I excel at
 <div>
   <p>Languages </p>
       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="25" height="25"/>&nbsp;
@@ -41,8 +41,7 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/sandeshmahajan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <p>Or you can email me at </p>
+  </a> Or you can email me at 
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
