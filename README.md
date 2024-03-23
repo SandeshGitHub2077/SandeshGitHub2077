@@ -44,7 +44,7 @@ Connect with me
   </a>
   <p>Or you can email me at </p>
   <a href="">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="100" height="80" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="80" height="25" />
   </a>
 </div>
 
