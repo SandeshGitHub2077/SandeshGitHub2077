@@ -47,13 +47,10 @@ Connect with me &nbsp;
   </a>
 </div>
 
-
-
-
-
+<br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd1YjV4dDN1M3JpaDl4MGFva3pqNHh0bnZxMWNudmwyaDExZ3dlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ISOckXUybVfQ4/giphy.gif" width="300"/>
-
+</div>
   
 <!--
 Here are some ideas to get you started:
