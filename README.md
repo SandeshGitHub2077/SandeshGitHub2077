@@ -40,11 +40,11 @@
 Connect with me 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sandeshmahajan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="25" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="25" />
   </a>
   <p>Or you can email me at </p>
   <a href="">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="25" height="25" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="100" height="25" />
   </a>
 </div>
 
