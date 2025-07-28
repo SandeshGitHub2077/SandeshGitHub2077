@@ -42,7 +42,7 @@ Connect with me &nbsp;
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="85" height="20" />
   </a>&nbsp;
    or you can email me at &nbsp;
-  <a href="">
+  <a href="sandesh.r.mahajan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="70" height="20" />
   </a>
 </div>
