@@ -1,5 +1,5 @@
 # Hi there 👋
-### I am a Masters in Computer Science Student at UNC, Charlotte
+### I am an Artificial Intelligence Engineer.
 ## Stuff I excel at
 <div>
 <!--   <p>Languages </p> -->
